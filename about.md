@@ -4,7 +4,7 @@ title: About
 example: "Example text in this variable."
 ---
 
-THis page describes the amazing {{ site.title }} by {{ site.authour.name }} .
+THis page describes the amazing {{ site.title }} by {{ site.author.name }} .
 {{ page.example }}
 
 ## About About Page
