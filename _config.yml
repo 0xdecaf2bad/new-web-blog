@@ -1,0 +1,9 @@
+# site settings
+title: Great New Site
+author:
+name: 0xdecaf2bad
+email: me@here.com
+description: "Great site about stuff"
+
+#Build settings
+remote_theme: jekyll/minima
