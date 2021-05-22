@@ -1,7 +1,11 @@
 ---
 layout: page
 title: About
+example: "Example text in this variable."
 ---
+
+THis page describes the amazing {{ site.title }} by {{ site.authour.name }} .
+{{ page.example }}
 
 ## About About Page
 
