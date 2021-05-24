@@ -9,7 +9,7 @@ THis page describes the amazing {{ site.title }} by {{ site.author }} .
 
 ## About About Page
 
-Thes are the voyages of the Star Ship Enterprise
+These are the voyages of the Star Ship Enterprise
 
 - focus
 - topics
